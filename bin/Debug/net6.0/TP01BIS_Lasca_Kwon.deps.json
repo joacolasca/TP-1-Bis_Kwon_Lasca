@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "TP01BIS_Lasca_Kwon/1.0.0": {
+        "runtime": {
+          "TP01BIS_Lasca_Kwon.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TP01BIS_Lasca_Kwon/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
